@@ -4,13 +4,13 @@
 
 **Below are the tasks carried out in this project:**
 
-1. **``Python Stats Libraries``**
-2. **``One Population``**
+1. ###**``Python Stats Libraries``**
+2. ###**``One Population``**
 	1. T Test or STUDENT-T or STUDENT Test
 	2. Z Test
 	3. Population Proportion
 	4. Chi-Square Test
-3. **``Two Populations``**
+3. ###**``Two Populations``**
 	1. Large Independent Samples
 		1. Pooled Large Independent Samples
 		2. Not-Pooled Large Independent Samples
@@ -22,7 +22,7 @@
 	4. Dependent Samples
 		1. Small Dependent Samples -- T Test
 	5. F-Distribution (2 variances or standard deviations)
-4. **``ANOVA``**
+4. ###**``ANOVA``**
 	1. One-factor
         1. Room Dataset Problem
         2. Batsmen Dataset Problem
@@ -41,9 +41,9 @@
             2. Normality Test
             3. Homogenity Test
     2. Two-factors
-5. **``ANOVA Using Excel``**
+5. ###**``ANOVA Using Excel``**
 	1. Nurse Home Visit Problem
 	2. Starbucks Quality Test Problem
 	3. Plants Growth Problem
 	4. Batsmen Scores Problem
-6. **``Distribution Functions``**
+6. ###**``Distribution Functions``**
