@@ -22,6 +22,27 @@ Below are the tasks carried out in this project:
 		1. Small Dependent Samples -- T Test
 	5. F-Distribution (2 variances or standard deviations)
 4. ANOVA
-	1. One-Way
-		1. Test Assumptions
-		2. Distribution Functions
+	1. One-factor
+        1. Room Dataset Problem
+        2. Batsmen Dataset Problem
+        3. Meat Groups Problem
+            1. Post-Hoc Analysis
+        4. Elbow Moment Transducer Problem
+            1. Post-Hoc Analysis
+            2. Normality Test
+            3. Homogenity Test
+        5. Rheumatic Patients Problem
+            1. Post-Hoc Analysis
+            2. Normality Test
+            3. Homogenity Test
+        6. Low Platelets Problem
+            1. Post-Hoc Analysis
+            2. Normality Test
+            3. Homogenity Test
+    2. Two-factors
+5. ANOVA Using Excel
+	1. Nurse Home Visit Problem
+	2. Starbucks Quality Test Problem
+	3. Plants Growth Problem
+	4. Batsmen Scores Problem
+6. Distribution Functions
