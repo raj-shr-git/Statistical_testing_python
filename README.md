@@ -40,7 +40,13 @@
             1. Post-Hoc Analysis
             2. Normality Test
             3. Homogenity Test
-    2. Two-factors
+    2. Two-factors W/O Repetition
+		1. Patients Teaching Problem
+			1. Running 1-Way ANOVA
+			2. Running 2-Way ANOVA
+			3. Post-Hoc Analysis
+			4. Normality Test
+			5. Homogenity Test
 5. #### **``ANOVA Using Excel``**
 	1. Nurse Home Visit Problem
 	2. Starbucks Quality Test Problem
