@@ -65,6 +65,15 @@
 			3. Post-Hoc Analysis
 			4. Normality Test
 			5. Homogenity Test
+		5. Lower Back Pain Problem-1
+			1. Running 1-Way ANOVA
+			2. Post-Hoc Analysis
+		6. Lower Back Pain Problem-2
+			1. Running 1-Way ANOVA
+			2. Running 2-Way ANOVA
+			3. Post-Hoc Analysis
+			4. Normality Test
+			5. Homogenity Test
 5. #### **``ANOVA Using Excel``**
 	1. Nurse Home Visit Problem
 	2. Starbucks Quality Test Problem
