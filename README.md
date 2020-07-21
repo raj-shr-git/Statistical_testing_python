@@ -74,6 +74,12 @@
 			3. Post-Hoc Analysis
 			4. Normality Test
 			5. Homogenity Test
+		7. Image Pixels Dataset
+			1. RGB groups data visualization
+			2. Running 1-Way ANOVA
+			3. 1-Way ANOVA Table
+			4. Marginal Mean Graph
+			5. Post-Hoc Analysis
 5. #### **``ANOVA Using Excel``**
 	1. Nurse Home Visit Problem
 	2. Starbucks Quality Test Problem
