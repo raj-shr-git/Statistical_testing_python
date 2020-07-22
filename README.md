@@ -4,10 +4,6 @@
 
 ![MMGs_Video](ANOVA_using_excel/Stats_MMGs.gif)
 
-![ANOVA_excel_example](ANOVA_using_excel/Batsmen_Dataset_MMG.PNG)
-
-![ANOVA_excel_example](ANOVA_using_excel/Cancer_Treatment_Score_Dataset_MMG.PNG)
-
 **Below are the tasks carried out in this project:**
 
 1. #### **``Python Stats Libraries``**
