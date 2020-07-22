@@ -2,7 +2,7 @@
 #### **``Using Pen, Paper, Python and Excel``**
 ##### **This repository is created for storing the components of Inferential Statistics of One Pop, Two Pops and Three or more pops using Python. Here, I'll also work with the real life datasets to perform Statistical or Hypothesis Testing.**
 
-[![MMGs_Video]](ANOVA_using_excel/Stats_MMGs.mp4)
+![MMGs_Video](ANOVA_using_excel/Stats_MMGs.mp4)
 
 ![ANOVA_excel_example](ANOVA_using_excel/Batsmen_Dataset_MMG.PNG)
 
