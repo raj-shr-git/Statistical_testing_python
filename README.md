@@ -4,7 +4,7 @@
 
 ![ANOVA_excel_example](ANOVA_using_excel/Batsmen_Dataset_MMG.PNG)
 
-![ANOVA_excel_example](ANOVA_using_excel/Starbucks_Dataset_MMG2.PNG)
+![ANOVA_excel_example](ANOVA_using_excel/Cancer_Treatment_Score_Dataset_MMG.PNG)
 
 **Below are the tasks carried out in this project:**
 
@@ -27,7 +27,7 @@
 		1. Small Dependent Samples -- T Test
 	5. F-Distribution (2 variances or standard deviations)
 4. #### **``ANOVA``**
-	1. One-factor
+	1. **One-factor**
         1. Room Dataset Problem
         2. Batsmen Dataset Problem
         3. Meat Groups Problem
@@ -44,7 +44,7 @@
             1. Post-Hoc Analysis
             2. Normality Test
             3. Homogenity Test
-    2. Two-factors W/O Repetition
+    2. **Two-factors W/O Repetition**
 		1. Patients Teaching Problem
 			1. Running 1-Way ANOVA
 			2. Running 2-Way ANOVA
@@ -84,6 +84,14 @@
 			3. 1-Way ANOVA Table
 			4. Marginal Mean Graph
 			5. Post-Hoc Analysis
+	3. **Two-factors With Repetition**
+		1. Cancer Treatment Score Problem
+			1. Running 1-Way ANOVA
+            2. 1-Way ANOVA Post-Hoc
+        2. Running 2-Way ANOVA
+            1. Post-Hoc Analysis
+            2. Normality Test
+            3. Homogenity Test
 5. #### **``ANOVA Using Excel``**
 	1. Nurse Home Visit Problem
 	2. Starbucks Quality Test Problem
