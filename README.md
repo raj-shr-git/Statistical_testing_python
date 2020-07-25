@@ -82,6 +82,13 @@
 			3. 1-Way ANOVA Table
 			4. Marginal Mean Graph
 			5. Post-Hoc Analysis
+		8. Selenium Intake Dataset
+			1. Running 1-Way ANOVA
+				1. 1-Way ANOVA PostHoc
+			2. Running 2-Way ANOVA
+				1. Post-Hoc Analysis
+				2. Normality Test
+				3. Homogenity Test
 	3. **Two-factors With Repetition**
 		1. Cancer Treatment Score Problem
 			1. Running 1-Way ANOVA
