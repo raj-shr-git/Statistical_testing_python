@@ -104,6 +104,13 @@
 				1. Post-Hoc Analysis
 				2. Normality Test
 				3. Homogenity Test
+		3. Neuro Cell Death Protection Problem
+			1. Running 1-Way ANOVA
+				1. 1-Way ANOVA Post-Hoc
+			2. Running 2-Way ANOVA
+				1. Post-Hoc Analysis
+				2. Normality Test
+				3. Homogenity Test
 5. #### **``ANOVA Using Excel``**
 	1. Nurse Home Visit Problem
 	2. Starbucks Quality Test Problem
