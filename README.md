@@ -7,11 +7,13 @@
 **Below are the tasks carried out in this project:**
 
 1. #### **``Python Stats Libraries``**
+
 2. #### **``One Population``**
 	1. T Test or STUDENT-T or STUDENT Test
 	2. Z Test
 	3. Population Proportion
 	4. Chi-Square Test
+
 3. #### **``Two Populations``**
 	1. Large Independent Samples
 		1. Pooled Large Independent Samples
@@ -24,103 +26,31 @@
 	4. Dependent Samples
 		1. Small Dependent Samples -- T Test
 	5. F-Distribution (2 variances or standard deviations)
+
 4. #### **``ANOVA``**
-	1. **One-factor**
-        1. Room Dataset Problem
-        2. Batsmen Dataset Problem
-        3. Meat Groups Problem
-            1. Post-Hoc Analysis
-        4. Elbow Moment Transducer Problem
-            1. Post-Hoc Analysis
-            2. Normality Test
-            3. Homogenity Test
-        5. Rheumatic Patients Problem
-            1. Post-Hoc Analysis
-            2. Normality Test
-            3. Homogenity Test
-        6. Low Platelets Problem
-            1. Post-Hoc Analysis
-            2. Normality Test
-            3. Homogenity Test
-    2. **Two-factors W/O Repetition**
-		1. Patients Teaching Problem
-			1. Running 1-Way ANOVA
-			2. Running 2-Way ANOVA
-			3. Post-Hoc Analysis
-			4. Normality Test
-			5. Homogenity Test
-		2. TIC Frequency Problem
-			1. Running 1-Way ANOVA
-			2. Running 2-Way ANOVA
-			3. Post-Hoc Analysis
-			4. Normality Test
-			5. Homogenity Test
-		3. Nurse Visit Time Problem
-			1. Running 1-Way ANOVA
-			2. Running 2-Way ANOVA
-			3. Post-Hoc Analysis
-			4. Normality Test
-			5. Homogenity Test
-		4. Vocational Training Problem
-			1. Running 1-Way ANOVA
-			2. Running 2-Way ANOVA
-			3. Post-Hoc Analysis
-			4. Normality Test
-			5. Homogenity Test
-		5. Lower Back Pain Problem-1
-			1. Running 1-Way ANOVA
-			2. Post-Hoc Analysis
-		6. Lower Back Pain Problem-2
-			1. Running 1-Way ANOVA
-			2. Running 2-Way ANOVA
-			3. Post-Hoc Analysis
-			4. Normality Test
-			5. Homogenity Test
-		7. Image Pixels Dataset
-			1. RGB groups data visualization
-			2. Running 1-Way ANOVA
-			3. 1-Way ANOVA Table
-			4. Marginal Mean Graph
-			5. Post-Hoc Analysis
-		8. Selenium Intake Dataset
-			1. Running 1-Way ANOVA
-				1. 1-Way ANOVA PostHoc
-			2. Running 2-Way ANOVA
-				1. Post-Hoc Analysis
-				2. Normality Test
-				3. Homogenity Test
+	1. **One-factor : problems**
+		1. Post-Hoc Analysis
+		2. Normality Test
+            	3. Homogenity Test
+    	
+	2. **Two-factors W/O Repetition : problems**
+		1. Running 1-Way ANOVA
+		2. Running 2-Way ANOVA
+		3. Post-Hoc Analysis
+		4. Normality Test
+		5. Homogenity Test
+	
 	3. **Two-factors With Repetition**
-		1. Cancer Treatment Score Problem
-			1. Running 1-Way ANOVA
-				1. 1-Way ANOVA Post-Hoc
-			2. Running 2-Way ANOVA
-				1. Post-Hoc Analysis
-				2. Normality Test
-				3. Homogenity Test
-		2. Genotype Yearly Score Problem
-			1. Running 1-Way ANOVA
-				1. 1-Way ANOVA Post-Hoc
-			2. Running 2-Way ANOVA
-				1. Post-Hoc Analysis
-				2. Normality Test
-				3. Homogenity Test
-		3. Neuro Cell Death Protection Problem
-			1. Running 1-Way ANOVA
-				1. 1-Way ANOVA Post-Hoc
-			2. Running 2-Way ANOVA
-				1. Post-Hoc Analysis
-				2. Normality Test
-				3. Homogenity Test
-		4. Brain Damage Trauma Victims Dataset
-			1. Running 1-Way ANOVA
-				1. 1-Way ANOVA Post-Hoc
-			2. Running 2-Way ANOVA
-				1. Post-Hoc Analysis
-				2. Normality Test
-				3. Homogenity Test
-5. #### **``ANOVA Using Excel``**
-	1. Nurse Home Visit Problem
-	2. Starbucks Quality Test Problem
-	3. Plants Growth Problem
-	4. Batsmen Scores Problem
-6. #### **``Distribution Functions``**
+		1. Running 1-Way ANOVA
+			1. 1-Way ANOVA Post-Hoc
+		2. Running 2-Way ANOVA
+			1. Post-Hoc Analysis
+			2. Normality Test
+			3. Homogenity Test
+
+5. #### **``Bootstrapping and its usecases``**
+
+6. #### **``Understand Multi-variate ANOVA, ANCOVA and MANCOVA``**
+
+7. #### **``ANOVA Using Excel``**
+8. #### **``Distribution Functions``**
