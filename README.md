@@ -32,7 +32,7 @@
 	1. **One-factor : problems**
 		1. Post-Hoc Analysis
 		2. Normality Test
-            	3. Homogenity Test
+		3. Homogenity Test
     	
 	2. **Two-factors W/O Repetition : problems**
 		1. Running 1-Way ANOVA
