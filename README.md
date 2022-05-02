@@ -62,3 +62,9 @@
 :diving_mask: **``Fun-Fact``** :: ***Why I wrote some of these statistical tests from scratch?*** :man_shrugging:
 - It was not only my eagerness to gain a full understanding but python statistical packages (like statsmodels and others) were following slightly different mathematical formulations for these tests. 
 - So, I was getting a noticeable difference while comparing my on-paper calculated p-values with python-generated p-values. That motivated me to look into the `statsmodels` implementations and find such differences. :innocent:
+
+---
+
+:orange_book: **``Textbook referred``** :: [Biostatistics: A Foundation for Analysis in the Health Sciences, 10th Edition](https://www.wiley.com/en-us/Biostatistics%3A+A+Foundation+for+Analysis+in+the+Health+Sciences%2C+10th+Edition-p-9781119625506)
+
+:white_check_mark: **``Datasets used in Textbook``** :: [Download](https://bcs.wiley.com/he-bcs/Books?action=chapter&bcsId=2191&itemId=0471456543&chapterId=15330) :point_left:
